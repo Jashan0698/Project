@@ -25,7 +25,7 @@ body{
 }
 
 .container{
-    padding: 10px 10%;
+    padding: 11px 10%;
 }
 
 nav{
@@ -36,8 +36,8 @@ nav{
 }
 
 .logo{
-    width: 120px;
-    height: 90px;
+    width: 121px;
+    height: 91px;
     border-radius: 40px;
 }
 
@@ -75,8 +75,8 @@ nav ul li a:hover::after{
 }
 
 .header-text h1{
-    font-size: 60px;
-    margin-top: 20px;
+    font-size: 61px;
+    margin-top: 21px;
 }
 
 .header-text h1 span{
@@ -145,12 +145,12 @@ nav ul li a:hover::after{
 
 .tab-contents ul li{
     list-style: none;
-    margin: 10px 0;
+    margin: 11px 0;
 }
 
 .tab-contents ul li span{
     color: #b54769;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .tab-contents {

@@ -26,7 +26,7 @@
                 <i class="fa-solid fa-bars" onclick="openmenu()"></i>
             </nav>
             <div class="header-text">
-                <p>B.E.  Student</p>
+                <p>B.E. CSE  Student</p>
                 <h1>Hi, I am XYZ<span></span></h1>
             </div>
         </div>

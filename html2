@@ -21,7 +21,7 @@
             </div>
         
             <div class="work">
-                <img src="./images/mohammad-rahmani-Hb-WIlu_VYM-unsplash.jpg">
+                <img src="./images/mohammad-rahmani-Hb-WIlu_VYM-unsplash.jpg" alt="">
                 <div class="layer">
                     <h3>Open-source Emulator Vita3K</h3>
                     <p>Actively testing latest releases of Vita3K with regular error-reporting to developers</p>
@@ -29,6 +29,6 @@
                 </div>  
             </div>
         </div>
-        <a href="#" class="btn"> See more</a>
+    
     </div>
 </div>

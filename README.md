@@ -17,7 +17,9 @@ The portfolio website project is designed to showcase personal and professional 
 # Technologies used in Project:
 
 HTML: Structure of the website.
+<br>
 CSS: Styling, layout, and responsive design.
+<br>
 JavaScript: Interactivity and dynamic content.
    
 # TEAM NUMBER-5

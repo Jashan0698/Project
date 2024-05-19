@@ -25,10 +25,15 @@ JavaScript: Interactivity and dynamic content.
 # Procedure
 
 >git clone https://github.com/Jashan0698/Project.git
+><br>
 >cd Project
+><br>
 >Changes done in project
+><br>
 >git add
+><br>
 >git commit
+><br>
 >git push origin main
 
 ## TEAM MEMBERS:

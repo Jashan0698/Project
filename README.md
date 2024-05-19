@@ -9,7 +9,9 @@ The portfolio website project is designed to showcase personal and professional 
 # Objectives Of The Project
 
 -To create a responsive and visually appealing portfolio website.
+<br>
 -To demonstrate proficiency in HTML, CSS, and JavaScript.
+<br>
 -To provide a platform to showcase personal projects, skills, and professional experiences.
 
 # Technologies used in Project:

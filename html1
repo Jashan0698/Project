@@ -76,13 +76,14 @@
         </div>
     </div>
 
+<!--Portfolio-->
 
 <div id="portfolio">
     <div class="container">
         <h1 class="sub-title">My Work</h1>  
         <div class="work-list">
             <div class="work">
-                <img src="./images/Screenshot 2023-11-13 203440.png" alt="">
+                <img src="images/photo.jpg" alt="">
                 <div class="layer">
                     <h3>Personal Resume Page</h3>
                     <p>Showcasing professional achievements, skills and experiences in a visually compelling way</p>
@@ -139,7 +140,7 @@
     </div>
 </div>
 
-<!--Portfolio-->
+
 
 
 <!--Contact-->

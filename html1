@@ -91,7 +91,7 @@
             </div>
         
             <div class="work">
-                <img src="./images/vishnu-mohanan-AcTlEUJJEIg-unsplash.jpg" alt="">
+                <img src="./images.file/image2.jpg" alt="">
                 <div class="layer">
                     <h3>Path-following Robot</h3>
                     <p>Use of Atmel AtMega-8 with IR sensors to autonomous systems that seamlessly navigate through designated paths</p>
@@ -100,7 +100,7 @@
             </div>
         
             <div class="work">
-                <img src="./images.file/image(3).jpg" alt="">
+                <img src="./images.file/image3.jpg" alt="">
                 <div class="layer">
                     <h3>Open-source Emulator Vita3K</h3>
                     <p>Actively testing latest releases of Vita3K with regular error-reporting to developers</p>
